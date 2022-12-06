@@ -1,0 +1,17 @@
+2022-12-07 02:02:23,420 - INFO - User has entered a sum: 20
+2022-12-07 02:02:23,421 - INFO - Calculation has been made.
+2022-12-07 02:02:23,421 - INFO - Number of banknotes in face value 4: 1
+2022-12-07 02:02:23,421 - INFO - Number of banknotes in face value 16: 1
+2022-12-07 02:02:23,421 - INFO - Program finished
+2022-12-07 02:02:50,833 - INFO - User has entered a sum: 500
+2022-12-07 02:02:50,833 - INFO - Calculation has been made.
+2022-12-07 02:02:50,833 - INFO - Number of banknotes in face value 4: 1
+2022-12-07 02:02:50,833 - INFO - Number of banknotes in face value 16: 1
+2022-12-07 02:02:50,833 - INFO - Number of banknotes in face value 32: 1
+2022-12-07 02:02:50,834 - INFO - Number of banknotes in face value 64: 7
+2022-12-07 02:02:50,834 - INFO - Program finished
+2022-12-07 02:03:19,598 - INFO - User has entered a sum: 2000
+2022-12-07 02:03:19,598 - INFO - Calculation has been made.
+2022-12-07 02:03:19,598 - INFO - Number of banknotes in face value 16: 1
+2022-12-07 02:03:19,598 - INFO - Number of banknotes in face value 64: 31
+2022-12-07 02:03:19,598 - INFO - Program finished
